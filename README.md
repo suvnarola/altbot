@@ -1,2 +1,0 @@
-# altbot
-http://altbot.net/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="176px" viewBox="0 0 176 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>logo-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="elements/sliders" transform="translate(-170.000000, -0.000000)">
+            <g id="sliders">
+                <g id="logo/white" transform="translate(170.000000, 0.000000)">
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" fill="#FBFCFF">
+                        <path d="M98.5,155 C141.302068,155 176,120.302068 176,77.5 C176,34.6979319 141.302068,0 98.5,0 C55.6979319,0 21,34.6979319 21,77.5 C21,120.302068 55.6979319,155 98.5,155 Z M99,105 C115.016258,105 128,92.0162577 128,76 C128,59.9837423 115.016258,47 99,47 C82.9837423,47 70,59.9837423 70,76 C70,92.0162577 82.9837423,105 99,105 Z" id="Combined-Shape"></path>
+                        <circle id="Oval-Copy-2" cx="42.5" cy="133.5" r="42.5"></circle>
+                    </g>
+                    <path d="M85.6767644,80.3558451 C96.604083,73.2678547 105.499468,73.2678547 113.396835,80.0370264 C115.074138,81.474715 117.599338,81.2804689 119.037026,79.6031655 C120.474715,77.9258621 120.280469,75.4006622 118.603165,73.9629736 C107.833866,64.7321453 95.0625837,64.7321453 81.3232356,73.6441549 C79.4698535,74.8463486 78.9419611,77.3233823 80.1441549,79.1767644 C81.3463486,81.0301465 83.8233823,81.5580389 85.6767644,80.3558451 Z" id="Path-3" fill="#52E5E7" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
